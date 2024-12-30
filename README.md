@@ -1,2 +1,2 @@
 # KrediRiskML
-Makine öğrenmsinin algoritmaları kullanarak kredi analizi 
+Makine öğrenmesi algoritmaları kullanılarak kredi risk analizi
